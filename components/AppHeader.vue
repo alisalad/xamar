@@ -7,7 +7,7 @@
       </svg>
       <span class="ml-3 text-xl">tailblocks</span>
     </a>
-    <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
+    <nav class="lg:ml-auto flex flex-wrap items-center text-base justify-center">
 
       <a class="mr-5 hover:text-gray-900"><nuxt-link to="/">Home</nuxt-link></a>
       <a class="mr-5 hover:text-gray-900"><nuxt-link to="/about">About</nuxt-link></a>
